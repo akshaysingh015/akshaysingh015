@@ -20,7 +20,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="65" height="55"/>
 
 </div>
-<br><br><br>
+<br><br>
 
 <table>
   <tr>
