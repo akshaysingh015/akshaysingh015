@@ -30,11 +30,13 @@
 
 # 🚀 About Me
 
-- 💻 Full Stack Developer
-- 🌱 Currently learning **System Design & Cloud**
-- 🧠 Exploring **AI, Backend Engineering & DevOps**
-- ⚡ Love building scalable web applications
-- 🎯 Goal: Build impactful products used by millions
+* 💻 Full Stack Developer
+* 🌱 Currently expanding my expertise in AI Models, Agentic AI, Artificial Intelligence, and Machine Learning
+* 🧠 Exploring System Design, Cloud & DevOps
+* 🚀 Building Full Stack and AI-powered applications
+* 🤝 Open Source Contributor & Continuous Learner
+* 🎯 Passionate about solving real-world problems with technology
+
 
 ---
 
