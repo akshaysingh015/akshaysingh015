@@ -10,7 +10,7 @@
 
 ---
 
-## 🌐 Connect With Me
+<h2 align="center>🌐 Connect With Me</h2>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/akshay-kumar-b24b61363">
@@ -80,7 +80,7 @@
 
 ---
 
-<h2 align="center">📊 GitHub Statistics</h2>
+<h2 align="center">📊 My GitHub Stats</h2>
 
 <p align="center">
   <img
@@ -94,7 +94,7 @@
 </p>
 ---
 
-# 🔥 GitHub Streak
+<h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
 
@@ -112,7 +112,7 @@
 
 ---
 
-# 🏆 GitHub Trophies
+<h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
 
@@ -122,7 +122,7 @@
 
 ---
 
-# ⚡ Profile Views
+<h2 align="center">⚡ Profile Views</h2>
 
 <p align="center">
 
