@@ -13,7 +13,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://https://www.linkedin.com/in/akshay-kumar-b24b61363">
+<a href="https://www.linkedin.com/in/akshay-kumar-b24b61363">
 <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
