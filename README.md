@@ -84,13 +84,12 @@
 
 <p align="center">
   <img
-    height="180"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=akshaysingh015&show_icons=true&theme=github_dark&hide_border=true"
+    width="49%"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=akshaysingh015&show_icons=true&theme=tokyonight&hide_border=true"
   />
-
   <img
-    height="180"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akshaysingh015&layout=compact&theme=github_dark&hide_border=true"
+    width="39%"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akshaysingh015&layout=compact&theme=tokyonight&hide_border=true"
   />
 </p>
 ---
@@ -105,12 +104,10 @@
 
 ---
 
-# 📈 Contribution Graph
+<h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akshaysingh015&theme=github-compact&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshaysingh015&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
