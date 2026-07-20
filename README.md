@@ -84,13 +84,13 @@
 
 <p align="center">
   <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=akshaysingh015&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
+    height="180"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=akshaysingh015&show_icons=true&theme=github_dark&hide_border=true"
   />
 
   <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaysingh015&layout=compact&theme=github_dark&hide_border=true"
+    height="180"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akshaysingh015&layout=compact&theme=github_dark&hide_border=true"
   />
 </p>
 ---
