@@ -13,16 +13,16 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/akshay-singh-chauhan-33384130a">
+<a href="https://https://www.linkedin.com/in/akshay-kumar-b24b61363">
 <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
-<a href="https://t.me/akshaysingh015">
-<img src="https://skillicons.dev/icons?i=discord" width="50"/>
+<a href="https://t.me/akshaysingh015" target="_blank">
+    <img src="https://img.icons8.com/color/48/telegram-app--v1.png" width="50" alt="Telegram"/>
 </a>
 
 <a href="mailto:singhakshaychauhan015@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Gmail"/>
 </a>
 </p>
 
