@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Akshay+Singh;Full+Stack+Developer;AI+Enthusiast;Open+Source+Contributor;Always+Learning+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=1200&color=00C4FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Akshay+Singh;Full+Stack+Developer;AI+%26+ML+Enthusiast;Building+Scalable+Applications;Always+Learning+Something+New+🚀" />
 
-# 👋 Hi, I'm Akshay Singh
+<h1>Hi 👋, I'm Akshay Singh</h1>
 
-### 💻 Full Stack Developer • AI Enthusiast • Open Source Contributor
+<h3>Full Stack Developer • AI Enthusiast • Open Source Learner</h3>
 
-Building scalable web applications while exploring the future of AI, Agentic AI and Machine Learning.
+<img src="https://komarev.com/ghpvc/?username=akshaysingh015&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
@@ -16,26 +16,26 @@ Building scalable web applications while exploring the future of AI, Agentic AI 
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/akshay-kumar-b24b61363">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+<a href="https://www.linkedin.com/in/akshay-kumar-b24b61363" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
-<a href="https://t.me/akshaysingh015">
-<img src="https://img.icons8.com/color/48/telegram-app--v1.png" width="50"/>
+<a href="https://t.me/akshaysingh015" target="_blank">
+<img src="https://img.icons8.com/color/96/telegram-app--v1.png" width="55"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:singhakshaychauhan015@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/akshaysingh015">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
 </a>
 
 </p>
@@ -44,54 +44,57 @@ Building scalable web applications while exploring the future of AI, Agentic AI 
 
 # 🚀 About Me
 
-- 💻 Full Stack Developer passionate about building scalable web applications.
-- 🤖 Currently expanding my expertise in **AI Models, Agentic AI, Artificial Intelligence and Machine Learning.**
-- ☁️ Exploring **System Design, Cloud Computing and DevOps.**
-- 🚀 Building **Full Stack** and **AI-powered applications.**
-- 🤝 Open Source Contributor & Continuous Learner.
+- 💻 Full Stack Developer passionate about building scalable applications.
+- 🤖 Currently exploring **AI Models, Agentic AI, Artificial Intelligence & Machine Learning**.
+- ⚡ Learning **FastAPI**, AI integrations and modern backend architecture.
+- 🧠 Interested in **System Design**, **Cloud**, and **DevOps**.
+- 🌱 Open Source Contributor and Continuous Learner.
 - 🎯 Passionate about solving real-world problems through technology.
-
----
-
-# 💼 Currently Working On
-
-- 🚀 Full Stack Projects
-- 🤖 Agentic AI
-- 🧠 AI & Machine Learning
-- 🌍 Open Source Contributions
 
 ---
 
 # 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,js,python" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
 </p>
 
-### Frontend
+### 🎨 Frontend
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vite" />
 </p>
 
-### Backend
+### ⚙️ Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 </p>
 
-### Database
+### 🤖 AI / ML
 
-<p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,fastapi" />
+</p>
+
+### 🗄️ Database
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
-### DevOps & Tools
+### ☁️ Cloud & DevOps
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vercel,vscode,postman,figma,firebase" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vercel" />
+</p>
+
+### 🛠️ Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,firebase" />
 </p>
 
 ---
@@ -100,15 +103,19 @@ Building scalable web applications while exploring the future of AI, Agentic AI 
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=akshaysingh015&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=akshaysingh015&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=akshaysingh015&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaysingh015&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
+---
+
+# 🔥 GitHub Streak
+
 <p align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaysingh015&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=akshaysingh015&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -124,43 +131,26 @@ Building scalable web applications while exploring the future of AI, Agentic AI 
 
 ---
 
-# 🚀 Featured Projects
+# 📌 Currently Focusing On
 
-| Project | Description |
-|---------|-------------|
-| 🚀 Project 1 | Add your best Full Stack project |
-| 🤖 Project 2 | Add your AI/ML project |
-| 💬 Project 3 | Add another featured project |
-
----
-
-# 🎯 Current Goals
-
-- ✅ Master Full Stack Development
-- 🤖 Learn Agentic AI
-- 🧠 Build AI-powered Applications
-- 🌍 Contribute to Open Source
-- 📚 Learn System Design
+```text
+🚀 Full Stack Development
+🤖 AI Models
+🧠 Agentic AI
+⚡ FastAPI
+📚 Machine Learning
+☁️ Cloud & DevOps
+```
 
 ---
 
-# 💡 Random Dev Quote
+# 💡 Quote
 
-<p align="center">
+<div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+> "The best way to predict the future is to build it."
 
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=akshaysingh015&style=for-the-badge&color=0e75b6"/>
-
-</p>
+</div>
 
 ---
 
@@ -168,6 +158,6 @@ Building scalable web applications while exploring the future of AI, Agentic AI 
 
 ### ⭐ Thanks for visiting my profile!
 
-*"Code. Learn. Build. Repeat."* 🚀
+If you like my work, consider giving ⭐ to my repositories.
 
 </div>
