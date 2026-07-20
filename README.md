@@ -21,7 +21,7 @@
 <img src="https://skillicons.dev/icons?i=discord" width="50"/>
 </a>
 
-<a href="mailto:your_email@gmail.com">
+<a href="mailto:singhakshaychauhan015@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
 </p>
@@ -45,13 +45,13 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,js,ts,python" />
+<img src="https://skillicons.dev/icons?i=cpp,c,js,python" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vite" />
 </p>
 
 ### Backend
@@ -63,13 +63,13 @@
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,prisma" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
 ### DevOps & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,vercel,netlify" />
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vercel" />
 </p>
 
 ### Tools
