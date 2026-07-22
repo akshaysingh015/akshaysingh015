@@ -8,6 +8,8 @@
     <a href="https://t.me/akshaysingh015"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
     <a href="mailto:singhakshaychauhan015@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   </p>
+
+  <img src="https://komarev.com/ghpvc/?username=akshaysingh015&label=Profile%20Views&color=00C4FF&style=flat-square" alt="Profile Views" />
 </div>
 
 ---
@@ -73,6 +75,5 @@ I am always open to discussing tech, collaborating on open-source initiatives, o
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akshaysingh015&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://komarev.com/ghpvc/?username=akshaysingh015&label=Profile%20Views&color=00C4FF&style=flat-square" alt="Profile Views" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akshaysingh015&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
