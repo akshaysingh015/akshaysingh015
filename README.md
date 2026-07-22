@@ -24,7 +24,7 @@ To continuously level up my skills, I am currently dedicating my time to:
 
 *   **Machine Learning & AI:** Actively utilizing Kaggle notebooks to master data cleaning techniques and experiment with predictive modeling, focusing on algorithms like Support Vector Machines (SVM) and Random Forests.
 *   **Cloud Architecture:** Completing structured coursework in Cloud Computing to better understand scalable infrastructure, distributed systems, and deployment strategies.
-*   **Hackathons & Problem Solving:** Actively preparing for competitive coding events and hackathons, including internal qualifiers for the **Smart India Hackathon (SIH)**, to apply my skills to real-world challenges.
+*   **Problem Solving & DSA:** Continuously sharpening my problem-solving skills by mastering core Data Structures and Algorithms, focusing on writing optimized and highly efficient code.
 
 ---
 
