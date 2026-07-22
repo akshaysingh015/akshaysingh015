@@ -24,6 +24,7 @@ I am a Full Stack Developer with a deep passion for building robust systems and 
 
 To continuously level up my skills, I am currently dedicating my time to:
 
+*   **Core Computer Science:** Deepening my understanding of fundamental CSE subjects (like Operating Systems, Database Management Systems, and Computer Networks) to build a strong foundation for scalable system design.
 *   **Machine Learning & AI:** Actively utilizing Kaggle notebooks to master data cleaning techniques and experiment with predictive modeling, focusing on algorithms like Support Vector Machines (SVM) and Random Forests.
 *   **Cloud Architecture:** Completing structured coursework in Cloud Computing to better understand scalable infrastructure, distributed systems, and deployment strategies.
 *   **Problem Solving & DSA:** Continuously sharpening my problem-solving skills by mastering core Data Structures and Algorithms, focusing on writing optimized and highly efficient code.
