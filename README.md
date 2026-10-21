@@ -63,18 +63,63 @@ I am always open to discussing tech, collaborating on open-source initiatives, o
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshaysingh015&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
 
-<br>
+  <!-- GitHub Activity -->
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./assets/github/momentum.dark.svg"
+    />
+    <img
+      src="./assets/github/momentum.light.svg"
+      alt="GitHub Contribution Activity"
+      width="100%"
+    />
+  </picture>
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=akshaysingh015&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=akshaysingh015&theme=tokyonight&hide_border=true" width="48%" />
-</div>
+  <br><br>
 
-<br>
+  <!-- GitHub Statistics -->
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./assets/github/overview.dark.svg"
+    />
+    <img
+      src="./assets/github/overview.light.svg"
+      alt="GitHub Statistics Overview"
+      width="100%"
+    />
+  </picture>
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akshaysingh015&layout=compact&theme=tokyonight&hide_border=true" />
+  <br><br>
+
+  <!-- Contribution Calendar and Streaks -->
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./assets/github/contributions.dark.svg"
+    />
+    <img
+      src="./assets/github/contributions.light.svg"
+      alt="GitHub Contributions and Streaks"
+      width="100%"
+    />
+  </picture>
+
+  <br><br>
+
+  <!-- Programming Languages -->
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./assets/github/languages.dark.svg"
+    />
+    <img
+      src="./assets/github/languages.light.svg"
+      alt="Most Used Programming Languages"
+      width="100%"
+    />
+  </picture>
+
 </div>
